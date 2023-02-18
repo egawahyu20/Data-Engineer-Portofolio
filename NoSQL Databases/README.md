@@ -53,3 +53,4 @@ You can open [Cloudant](Cloudant.md) to see some cloudant task such as Replicate
 You can open [MongoDB](MongoDB.md) to see some MongoDB task such as Import, Create Index, Write Query, Aggregate and Export.
 
 # 4 - Working with a Cassandra database
+You can open [Cassandra](Cassandra.md) to see some Cassandra task such as Import, CQL query and Export.
